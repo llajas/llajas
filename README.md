@@ -1,14 +1,13 @@
 ### Hi there 👋<br><br>
 
 I'm Lauren!<br>
-- I'm a DevOps & Site Reliability Engineer at IBM. 👨🏻‍💻<br>
-- I work primarily on OpenShift, but I enjoy all things Kubernetes related. ⎈<br>
-- I enjoy scripting and automation, namely in Bash⌨️ and lately Ruby💎, as well.
+- I'm a DevOps & Site Reliability Engineer 👨🏻‍💻 at IBM. 👁️🐝Ⓜ️<br>
+- I enjoy scripting and automation, namely in Bash⌨️ and lately Ruby💎, as well (and PowerShell, where needed).
+- I got my start working on and managing Windows based systems as a kid, but nowadays I work primarily on OpenShift & Kubernetes. ⎈<br>
+- Got a cool home automation you're using or want to implement? I'd love to see it.
 - I'm always looking to expand my knowledge and share what [I've discovered](https://youtu.be/FdsCX8ccYXs?si=GvYOo2xXwQ3WPfTt&t=153) on my journey. 📚<br>
 
 PR's are welcome!! Feel free to reach out! You can find me on my [Discord](https://discord.gg/VDmS4ty2aS), usually lurking the '__#tech__' channel.
-
-
 
 <!--
 **llajas/llajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
