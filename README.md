@@ -7,7 +7,7 @@ I'm Lauren!<br>
 - Got a cool home automation you're using or want to implement? I'd love to see it.
 - I'm always looking to expand my knowledge and share what [I've discovered](https://youtu.be/FdsCX8ccYXs?si=GvYOo2xXwQ3WPfTt&t=153) on my journey. 📚<br>
 
-PR's are welcome!! Feel free to reach out! You can find me on my [Discord](https://discord.gg/VDmS4ty2aS), usually lurking the '__#tech__' channel.
+PR's are welcome!! Feel free to reach out!
 
 <!--
 **llajas/llajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
